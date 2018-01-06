@@ -16,7 +16,7 @@ gem install bundler
 
 git clone git@github.com:LQCDSciDAC4/LQCDSciDAC4.github.io.git
 
-cd hadspec
+cd LQCDSciDAC4.github.io.git
 
 bundle install
 
