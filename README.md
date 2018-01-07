@@ -20,11 +20,9 @@ cd LQCDSciDAC4.github.io.git
 
 bundle install
 
-cd docs
+bundle exec jekyll build
 
-jekyll build
-
-jekyll serve
+bundle exec jekyll serve
 
 then in your favourite web browser you can type:
 
