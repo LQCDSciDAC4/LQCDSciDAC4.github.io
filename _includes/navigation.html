@@ -9,6 +9,10 @@
     <a href="about.html">About</a>
   </td>
 
+  <td {% if page.url == "scidac.html" %}class="navigation-selected"{% else %}class="navigation"{% endif %}>
+    <a href="scidac.html">SciDAC</a>
+  </td>
+
   <td {% if page.url == "results.html" %}class="navigation-selected"{% else %}class="navigation"{% endif %}>
     <a href="results.html">Highlights</a>
   </td>
