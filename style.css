@@ -162,18 +162,17 @@ td.navigation:hover
 
 td.navigation-selected
 {
-  color: #C0272D;
   background-color: #FFFFFF;
 }
 
 td.navigation-selected:hover
 {
-  color: #C0272D;
   background-color: #eee;
 }
 
 td.navigation-selected a
 {
+  color: #C0272D;
   padding: 8px 7px 8px 7px;
   margin: -8px -7px -8px -7px;
 }
